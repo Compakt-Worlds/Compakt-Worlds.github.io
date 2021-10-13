@@ -16,3 +16,7 @@ a {
     font-family: cursive;
     color: cyan;
 }
+
+.container {
+    display: flex;
+}
