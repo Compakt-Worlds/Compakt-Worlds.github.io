@@ -1,22 +1,3 @@
-body {
-    background: rgb(35, 35, 35);
-}
-h1 {
-    font-family: cursive;
-    background: rgb(25, 25, 25);
-    color: white;
-    text-align: center;
-}
-p {
-    font-family: cursive;
-    background: rgb(25, 25, 25);
-    color: white;
-}
-a {
-    font-family: cursive;
-    color: cyan;
-}
-
-.container {
+.header {
     display: flex;
 }
